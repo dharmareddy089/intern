@@ -1,0 +1,57 @@
+
+.k
+{
+    font-weight: 700;
+    color:#2376fd;
+    font-style: normal;
+    font-size: xx-large;
+}
+.local
+{
+    margin-left: 5%;
+    color: aliceblue;
+    background-color: #2376fd;
+    margin-top: 50%;
+    word-spacing: 0rem;
+}
+.pad
+{
+    align-items: center;
+    margin-left: 50%;
+    text:black;
+    font-size: larger;
+    font-style:inherit
+}
+.hell
+{
+    color: black;
+    font-size: larger;
+}
+.tex
+{
+    color:rgb(222, 21, 182);
+    font-size: larger;
+}
+.iot
+{
+    background-color:white;
+}
+
+.top
+{
+    color: black;
+}
+.sub
+{
+    color: #2376fd;
+}
+.happy
+{
+    background-image: url("https://c1.wallpaperflare.com/preview/411/694/389/black-business-computer-desk.jpg");
+}
+.instant
+{
+    color: white;
+    font-size: x-large;
+    padding: auto;
+}
